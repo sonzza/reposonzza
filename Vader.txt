@@ -1,1 +1,1 @@
-Print(ÒLuke im your fatherÓ);
+Print(ÒLuke im your father!Ó);
