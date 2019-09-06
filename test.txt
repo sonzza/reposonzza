@@ -1,1 +1,1 @@
-Print(ÒI suggest a new strategy, Artoo: let the Wookie win.Ó);
+Print(ÒHello world!Ó);
